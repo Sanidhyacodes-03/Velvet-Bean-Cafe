@@ -7,7 +7,7 @@
 A premium, fully responsive front-end interface tailored for a modern cafe that doubles as an event space. This project transforms a standard web layout into an immersive, dark-themed digital storefront. It is designed to bridge the gap between everyday hospitality and private event management, offering a seamless user journey from exploring the menu to booking the venue.
 
 ## 🔗 Live Demo
-**[Insert Your Live Vercel/Netlify/GitHub Pages URL Here]**
+**[https://velvet-bean-cafe-xi.vercel.app/]**
 
 ---
 
